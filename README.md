@@ -1,3 +1,7 @@
+# Jest Basic App
+
+Basic form elements with the use of Jest to test those elements
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
